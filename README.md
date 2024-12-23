@@ -1,7 +1,3 @@
-#### About Me 👨‍💻
- - I’m currently working at [booking.com](https://www.booking.com/).
- - Ask me about Java, Kotlin or Android.
-
 #### Blogs 📝
  - [New way of SMS Retriever API - SMS User Consent](https://proandroiddev.com/new-way-of-sms-retriever-api-sms-user-consent-d7210c00d7c9)
  - [Google Developer Groups Turkey Summit 2019](https://blog.usejournal.com/google-developer-groups-turkey-summit-2019-2669025a3abb)
